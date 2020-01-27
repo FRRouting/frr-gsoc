@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: FRR GSoC
+description: FRR GSoC Information
+logo: http://docs.frrouting.org/en/latest/_static/frr-icon.svg
+

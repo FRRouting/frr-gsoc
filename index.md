@@ -1,12 +1,23 @@
-## Welcome to GitHub Pages
+---
+title: FRR in Google Summer of Code
+---
+# FRR in Google Summer of Code
+[Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/about/) is a yearly event where students from a diverse set of countries actively contribute to open source projects during their summer break away from classes. Google pays a stipend to these students to work with organizations selected by Google.
 
-You can use the [editor on GitHub](https://github.com/FRRouting/frr-gsoc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Students apply to the program and are selected by Google and FRR to work on a project over a three-month period. Frr provides mentors to these students to help with community and technical guidence as they complete their respective projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## GSoC 2020
 
-### Markdown
+FRR is applying to be considered as an organization for the Google Summer of Code 2020. If selected as a participating organization, students will be able to apply to spend their summer enriching our product through one of our available projets.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Students
+- [FRR Information for Students](./students/)
+- [FRR Project Ideas](./2020/project-ideas)
+
+<!---
+## Get Involved
+- \#gsoc-2020 on our public [slack](https://frrouting.slack.com/) instance. Slack is our primary means of communication. You can join via [this](https://join.slack.com/t/frrouting/shared_invite/enQtNjM1MTkzMDQ0Mzg2LTAxZmQ5ODk0NTE1NjZmOWNkNmJkODc3YWZhOWE3NjQ1MzI2YWMzZmViNzVmYjBhYWNkNDYwMjVkOWMzMWZkYWM) self invite link.
+- Development, user, and announcements mailing list found [here](https://lists.frrouting.org/listinfo).
 
 ```markdown
 Syntax highlighted code block
@@ -35,3 +46,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
