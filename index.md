@@ -4,7 +4,7 @@ title: FRR in Google Summer of Code
 # FRR in Google Summer of Code
 [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/about/) is a yearly event where students from a diverse set of countries actively contribute to open source projects during their summer break away from classes. Google pays a stipend to these students to work with organizations selected by Google.
 
-Students apply to the program and are selected by Google and FRR to work on a project over a three-month period. Frr provides mentors to these students to help with community and technical guidence as they complete their respective projects.
+Students apply to the program and are selected by Google and FRR to work on a project over a three month period. Frr provides mentors to these students to help with community and technical guidance as they complete their respective projects.
 
 ## GSoC 2020
 
