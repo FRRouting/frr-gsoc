@@ -1,3 +1,0 @@
----
-title: FRR Project Ideas
----
