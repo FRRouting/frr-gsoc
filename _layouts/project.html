@@ -18,11 +18,12 @@ layout: default
 {{content}}
 
 <h3>Mentors</h3>
-{{ page.mentorA }}
-<br>
-{{ page.mentorB }}
-<p></p>
+{% for mentor in page.mentors %}
+  {{ mentor.name }} (@{{mentor.nick}})
+  <br>
+{% endfor %}
 
+<br>
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
