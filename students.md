@@ -18,7 +18,7 @@ If you are on a F1 visa, be sure you have [authorization](https://developers.goo
 3. Write your proposal following the [GSoC proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal)
 4. Take a look at our [Dev](http://docs.frrouting.org/projects/dev-guide/en/latest/) and [User](http://docs.frrouting.org/en/latest/) guides
 5. If your are not familiar with FRR, download our package and try it out
-6. Joing our [slack](https://join.slack.com/t/frrouting/shared_invite/enQtNjM1MTkzMDQ0Mzg2LTAxZmQ5ODk0NTE1NjZmOWNkNmJkODc3YWZhOWE3NjQ1MzI2YWMzZmViNzVmYjBhYWNkNDYwMjVkOWMzMWZkYWM)
+6. Join our [slack](https://join.slack.com/t/frrouting/shared_invite/enQtNjM1MTkzMDQ0Mzg2LTAxZmQ5ODk0NTE1NjZmOWNkNmJkODc3YWZhOWE3NjQ1MzI2YWMzZmViNzVmYjBhYWNkNDYwMjVkOWMzMWZkYWM)
 7. Join our [Dev mailing list](https://lists.frrouting.org/listinfo/dev)
 9. Reach out to us in **#gsoc-2020** on slack to start discussing your project and introduce yourself. Include the following in your introduction:
     - area of study/interests
