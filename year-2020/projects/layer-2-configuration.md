@@ -11,7 +11,7 @@ tags:
 mentors:
   -
     name: "Stephen Worley"
-    nick: "sworley"
+    nick: "sworleys"
   -
     name: "Quentin Young"
     nick: "qlyoung"
