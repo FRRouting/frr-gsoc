@@ -9,8 +9,8 @@ projects:
     name: Dataplane Batching
     short: "Implement dataplane batch sending"
   -
-    name: Router userscripting with Lua
-    short: "Create C <-> Lua interface to support dynamic userscripting!"
+    name: Lua userscripting
+    short: "Create C <-> Lua interface to support userscripting on routers!"
   -
     name: Layer 2 Configuration
     short: "Add support for layer 2 configuration"
