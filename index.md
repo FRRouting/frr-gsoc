@@ -10,11 +10,9 @@ Students apply to the program and are selected by Google and FRR to work on a pr
 
 FRR is applying to be considered as an organization for the Google Summer of Code 2020. If selected as a participating organization, students will be able to apply to spend their summer enriching FRR through one of our available [projects](./year-2020/).
 
-<!--
 ## Students
-- [FRR Information for Students](./students)
-- [FRR Projects](./year-2020/)
--->
+- [FRR GSoC Info for Students](./students)
+- [FRR GSoC Projects](./year-2020/)
 
 <!---
 ## Get Involved
