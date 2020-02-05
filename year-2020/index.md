@@ -11,5 +11,8 @@ projects:
   -
     name: Layer 2 Configuration
     short: "Add support for layer 2 configuration"
+  -
+    name: LTTng Logging
+    short: "Extend FRR logging to add support for LTTng"
 ---
 
