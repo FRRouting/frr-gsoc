@@ -12,7 +12,7 @@ FRR is applying to be considered as an organization for the Google Summer of Cod
 
 ## Students
 - [FRR Information for Students](./students)
-- [FRR Project Ideas](./year-2020/)
+- [FRR Projects](./year-2020/)
 
 <!---
 ## Get Involved
