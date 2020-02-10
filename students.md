@@ -13,7 +13,7 @@ Verify you are [eligible to participate in Google Summer of Code](https://develo
 If you are on a F1 visa, be sure you have [authorization](https://developers.google.com/open-source/gsoc/faq#i_am_an_accepted_student_in_the_united_states_on_an_f1_visa_how_do_i_get_authorization_to_participate). 
 
 ### Apply
-1. Take a look at our [projects](./year-20202/)
+1. Take a look at our [projects](./year-2020/)
 2. Choose a project from the list or come up with your own
 3. Write your proposal following the [GSoC proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal)
 4. Take a look at our [Dev](http://docs.frrouting.org/projects/dev-guide/en/latest/) and [User](http://docs.frrouting.org/en/latest/) guides
