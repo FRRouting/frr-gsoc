@@ -6,13 +6,13 @@ title: FRR in Google Summer of Code
 
 Students apply to the program and are selected by Google and FRR to work on a project over a three month period. Frr provides mentors to these students to help with community and technical guidance as they complete their respective projects.
 
-## GSoC 2021
+## GSoC 2022
 
-FRR is applying to be considered as an organization for the Google Summer of Code 2021. If selected as a participating organization, students will be able to apply to spend their summer enriching FRR through one of our available [projects](./year-2021/).
+FRR is applying to be considered as an organization for the Google Summer of Code 2022. If selected as a participating organization, students will be able to apply to spend their summer enriching FRR through one of our available [projects](./year-2022/).
 
 ## Students
 - [FRR GSoC Info for Students](./students)
-- [FRR GSoC Projects](./year-2021/)
+- [FRR GSoC Projects](./year-2022/)
 
 <!---
 ## Get Involved
