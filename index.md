@@ -2,16 +2,16 @@
 title: FRR in Google Summer of Code
 ---
 # FRR in Google Summer of Code
-[Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/about/) is a yearly event where students from a diverse set of countries actively contribute to open source projects during their summer break away from classes. Google pays a stipend to these students to work with organizations selected by Google.
+[Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/about/) is a yearly event where people from a diverse set of countries actively contribute to open source projects during their summer break away from classes. Google pays a stipend to these contributors to work with organizations selected by Google.
 
-Students apply to the program and are selected by Google and FRR to work on a project over a three month period. Frr provides mentors to these students to help with community and technical guidance as they complete their respective projects.
+Contributors apply to the program and are selected by Google and FRR to work on a project over a three month period. Frr provides mentors to these contributors to help with community and technical guidance as they complete their respective projects.
 
 ## GSoC 2022
 
-FRR is applying to be considered as an organization for the Google Summer of Code 2022. If selected as a participating organization, students will be able to apply to spend their summer enriching FRR through one of our available [projects](./year-2022/).
+FRR is applying to be considered as an organization for the Google Summer of Code 2022. If selected as a participating organization, contributors will be able to apply to spend their summer enriching FRR through one of our available [projects](./year-2022/).
 
-## Students
-- [FRR GSoC Info for Students](./students)
+## Contributors
+- [FRR GSoC Info for Contributors](./students)
 - [FRR GSoC Projects](./year-2022/)
 
 <!---

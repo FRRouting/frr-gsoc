@@ -1,11 +1,11 @@
 ---
-title: FRR GSoC Info for Students
+title: FRR GSoC Info for Contributors
 ---
 
-## FRR GSoC Information for Students
+## FRR GSoC Information for Contributors
 Thank you for wanting to help make FRR awesome!
 
-Read the [Google Summer of Code Student Guide](https://google.github.io/gsocguides/student/)
+Read the [Google Summer of Code Contributor Guide](https://google.github.io/gsocguides/student/)
 
 ### Eligibility
 Verify you are [eligible to participate in Google Summer of Code](https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation).
