@@ -1,0 +1,24 @@
+Why does your organization want to participate in Google Summer of Code?
+
+GSoC, in FRR's opinion, is one of the best programs of the FOSS world. GSoC enables people who would not normally have an opportunity to contribute to open source software through traditional means (internships/jobs) due to their location or socioeconomic backgrounds to join our community. As a project, being able to make a difference in that is frankly awesome. FRR has had two successful GSoC projects thus far that have been merged into our tree and added significant value to our code base. It has been a very rewarding, albeit demanding, experience for our mentors to guide a new contributor as they learn and add features to a nearly 30yr old code base. We would like to continue GSoC for 2022 with another opportunity for a new open source contributor to see a useful project finished and being run on thousands of routers all over the world.
+
+What would your organization consider to be a successful GSoC program?
+
+A successful GSoC program would be a project that ends with the contributor feeling they have learned valuable technical skills and are a part of FRR’s larger upstream community. They would feel the experience was worthwhile and continue to actively engage with other developers/users even after their project is merged into our main tree.
+
+How will you keep mentors engaged with their GSoC contributors?
+
+Our mentors are incredibly passionate about FOSS software and enabling a positive and open experience for new contributors. Working with the contributor’s timezone, they schedule at least two required meetings per week to discuss ongoing work and 1-2 hours in the middle of the week for “office hours”. Mentors also make themselves available as much as possible over our public slack, responding within an hour or two most times. We have a designated “#gsoc” channel where many other FRR developers and users join to follow the ongoing work and help out as well. Our mentors have so far been reviewed very positively for their availability to contributors during projects.
+
+How will you keep your contributors on schedule to complete their projects?
+
+As mentioned, we require two hour-long weekly meetings with our mentors to discuss ongoing work. These usually take place Monday and Friday accommodating both the mentors’ and contributor’s time zones. In the Monday meeting they discuss goals for the week and on Friday they discuss what was accomplished. Usually some live code review/design takes place during these meetings. Mentors also provide office hours during the week where a contributor can drop in to a meeting and ask questions with a mentor that may arise during the week. Mentors are also available at most times in our public chat to help with things during the week.
+
+How will you get your GSoC contributors involved in your community during GSoC?
+
+We take pride in the fact that many of our contributors both through GSoC and otherwise stay in our open chats and help users and other developers long after submitting code. We encourage our contributors (if timezone permits) to join our weekly community technical meeting that is open to all FRR developers where we discuss open issues and pull requests. We feel joining this meeting helps put faces to names on our public chat when asking for help and makes the contributor feel a bit more a part of the community. It is required to join this meeting at least to introduce yourself and present your project at the end of it.
+
+Anything else we should know?
+
+Frr is a Linux Foundation Collaborative Project.
+
