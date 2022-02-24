@@ -23,6 +23,8 @@ skills:
 ---
 
 ### Details
+175 or 350hrs project (dependent on # of components added)
+
 Add layer 2 functionality into FRR. Specifically, add the ability to configure layer 2 type data in dataplanes. For example, configuring VRFs or interfaces in FRR, should create them in the dataplanes as well. This project will be scoped for the Linux dataplane.
 
 For example, configuring interface and VRF information in FRR should create interfaces and VRFs in the kernel. In current FRR, we must configure those separately using another tool (`iproute2` in Linux) and then reference them by name in FRR configurations.

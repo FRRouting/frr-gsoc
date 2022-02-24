@@ -20,6 +20,8 @@ skills:
 ---
 
 ### Details
+350hrs project
+
 In FRR we interact with the linux kernel through 2 different pthreads in zebra (main and dplane). For the dplane pthread, we have spent a lot of time moving most of our route/neighbors/etc. installs into this pthread via context object "snapshots" we take of the object we want to install into the kernel. We take a route or other object we want to install/update and create a context object for it to be passed to our dplane pthread and installed. This goes through to be handled by our dplane specific code (`zebra/rt_netlink` for linux as an example). Moving our kernel installs to a separate pthread has proven to significantly improve our processing time since it alleviates zebra's main thread to continue handling other things like messages from our protocols.
 
 However, all of our incoming messages from our netlink listening socket (`zns->netlink`) still happen on the main pthread. This netlink socket listens for notifications from the kernel about events external to FRR (interface link downs/ups and others). These are events we did not initiate but have to handle in FRR by updating our internal state and responding however appropriate.
