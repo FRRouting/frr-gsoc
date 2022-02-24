@@ -11,6 +11,9 @@ projects:
   -
     name: Dplane Pthread Listener
     short: "Move netlink notification listener to dplane pthread"
+  -
+    name: ZAPI Versioning Protobuf
+    short: "Add a supportable versioning system to ZAPI and convert to protobuf"
 ---
 
 If you have a project idea you'd like us to consider please discuss it with us on **#gsoc** in slack then submit a PR on our GSoC [repo](https://github.com/FRRouting/frr-gsoc) with your project following the same style as the other projects here.
