@@ -23,7 +23,7 @@ skills:
 ---
 
 ### Details
-350hrs project
+350hrs project - Hard Difficulty
 
 Add the ability for ZEBRA to modify TC tables via the netlink protocol. Currently FRR has no ability to modify the underlying TC tables. This would be extremely useful for BGP Flowspec as well as with PBR.
 

@@ -22,7 +22,7 @@ skills:
 ---
 
 ### Details
-350hrs project
+350hrs project - Hard Difficulty
 
 In FRR, our routing daemons run as separate processes that communicate to Zebra via sockets. We use an internal stream protocol called ZAPI to accomplish this documented [here](http://docs.frrouting.org/projects/dev-guide/en/latest/zebra.html#overview-of-the-zebra-protocol). The code for it is largely found in `lib/zclient.h` and `zebra/zapi_msg.c`. There is some pseudo-versioning done with it but nothing that we support users to make use of in their own out-of-tree code. The protocol is currently supported insofar that we assume only daemons in our code tree will use it.
 

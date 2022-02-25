@@ -20,7 +20,7 @@ skills:
 ---
 
 ### Details
-350hrs project
+350hrs project - Medium Difficulty
 
 In FRR we interact with the linux kernel through 2 different pthreads in zebra (main and dplane). For the dplane pthread, we have spent a lot of time moving most of our route/neighbors/etc. installs into this pthread via context object "snapshots" we take of the object we want to install into the kernel. We take a route or other object we want to install/update and create a context object for it to be passed to our dplane pthread and installed. This goes through to be handled by our dplane specific code (`zebra/rt_netlink` for linux as an example). Moving our kernel installs to a separate pthread has proven to significantly improve our processing time since it alleviates zebra's main thread to continue handling other things like messages from our protocols.
 

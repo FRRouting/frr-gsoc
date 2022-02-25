@@ -23,7 +23,7 @@ skills:
 ---
 
 ### Details
-175 or 350hrs project (dependent on # of components added)
+175 or 350hrs project (dependent on # of components added) - Medium Difficulty
 
 Add layer 2 functionality into FRR. Specifically, add the ability to configure layer 2 type data in dataplanes. For example, configuring VRFs or interfaces in FRR, should create them in the dataplanes as well. This project will be scoped for the Linux dataplane.
 
